@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "title": "Announcement",
+  "message": "Service starts 10am this Sunday.",
+  "sent_at": "3/11/26",
+  "show_button": true,
+  "button_text": "Learn More",
+  "button_link": "https://crestwoodchristian.net"
+}
