@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "title": "Announcement",
-  "message": "Service starts 10am this Sunday.",
+  "message": "App Update Scheduled For 3/15/26",
   "sent_at": "3/11/26",
   "show_button": true,
-  "button_text": "Learn More",
+  "button_text": "Share Our App",
   "button_link": "https://crestwoodchristian.net"
 }
