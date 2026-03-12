@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "title": "Welcome To Crestwood! Please work test announcement",
-  "message": "App Update Scheduled For 3/15/26",
+  "title": "New App Update!",
+  "message": "New App Update Scheduled For 3/15/26 at 10 A.M. PST.",
   "sent_at": "Announcement Sent At: 3/11/26",
-  "show_button": false,
+  "show_button": true,
   "button_text": "Share Our App",
   "button_link": "https://crestwoodchristian.net/appdownload"
 }
