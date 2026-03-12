@@ -1,9 +1,9 @@
 {
   "enabled": true,
   "title": "We Have New Prayer Requests.",
-  "message": "Please Check Our Prayer Requests Page Or Click The Button Below To See The Page",
+  "message": "Please Check Our Prayer Requests Page",
   "sent_at": "Announcement Sent At: 3/12/26",
-  "show_button": true,
+  "show_button": false,
   "button_text": "View Prayer Requests",
   "button_link": "https://crestwoodchristian.net/prayer-requests/"
 }
