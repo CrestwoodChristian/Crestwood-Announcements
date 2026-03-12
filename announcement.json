@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "title": "New App Update!",
-  "message": "New App Update Scheduled For 3/15/26 at 10 A.M. PST.",
-  "sent_at": "Announcement Sent At: 3/11/26",
+  "title": "We Have New Prayer Requests.",
+  "message": "Please Check Our Prayer Requests Page Or Click The Button Below To See The Page",
+  "sent_at": "Announcement Sent At: 3/12/26",
   "show_button": true,
-  "button_text": "Share Our App",
-  "button_link": "https://crestwoodchristian.net/appdownload"
+  "button_text": "View Prayer Requests",
+  "button_link": "https://crestwoodchristian.net/prayer-requests/"
 }
