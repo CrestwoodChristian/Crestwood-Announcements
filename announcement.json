@@ -3,7 +3,7 @@
   "title": "Welcome To Crestwood!",
   "message": "App Update Scheduled For 3/15/26",
   "sent_at": "Announcement Sent At: 3/11/26",
-  "show_button": true,
+  "show_button": false,
   "button_text": "Share Our App",
   "button_link": "https://crestwoodchristian.net/appdownload"
 }
