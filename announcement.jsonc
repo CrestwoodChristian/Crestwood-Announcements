@@ -1,9 +1,10 @@
 {
-  "enabled": true, // if you wanna show or hide an announcement
-  "title": "We Have New Prayer Requests.",
-  "message": "Please Check Our Prayer Requests Page",
-  "sent_at": "Announcement Sent At: 3/12/26",
-  "show_button": false,
-  "button_text": "View Prayer Requests",
-  "button_link": "https://crestwoodchristian.net/prayer-requests/"
+  "enabled": true, // if you wanna show or hide an announcement in the app (true shows an announcement, false hides it)
+  "title": "We Have New Prayer Requests.", // title of the announcement (what will show at the top)
+  "message": "Please Check Our Prayer Requests Page", // the message portion below the title
+  "sent_at": "Announcement Sent At: 3/12/26", // change this date every time you send an announcement, dont bother putting the time unless you really want to
+
+  "show_button": false, // this is for if you want to show a button, if you do make sure you change the link (true to show, false to hide)
+  "button_text": "View Prayer Requests", // the text in the button
+  "button_link": "https://crestwoodchristian.net/prayer-requests/" // the link the button goes to
 }
