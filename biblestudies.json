@@ -1,4 +1,72 @@
 {
- { Monday = true,
-  
+  "sunday": {
+    "enabled": true,
+    "title": "SUNDAY NIGHT",
+    "name": "The Herd of Turtles",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "5:00 - 7:30 PM",
+    "led_by": "Ron Casper",
+    "location": "Meeting at the Caspers home",
+    "contact_email": "ron@crestwoodchristian.net"
+  },
+  "monday": {
+    "enabled": true,
+    "title": "MONDAY NIGHT",
+    "name": "Monday's With Mike",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "6:30 - 8:00 PM",
+    "led_by": "Pastor Mike Collins",
+    "location": "Crestwood Christian Fellowship - (1265 W. McCoy Lane, Ste E)",
+    "contact_email": "mike@crestwoodchristian.net"
+  },
+  "tuesday": {
+    "enabled": true,
+    "title": "TUESDAY NIGHT",
+    "name": "Women's Bible Study",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "6:30 - 7:30 PM",
+    "led_by": "Sheila Casper",
+    "location": "Panera Bread - (540 E. Betteravia Road)",
+    "contact_email": "sheila@crestwoodchristian.net"
+  },
+  "wednesday": {
+    "enabled": false,
+    "title": "WEDNESDAY",
+    "name": "Coming Soon",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "TBD",
+    "led_by": "TBD",
+    "location": "TBD",
+    "contact_email": "info@crestwoodchristian.net"
+  },
+  "thursday_afternoon": {
+    "enabled": true,
+    "title": "THURSDAY AFTERNOON",
+    "name": "Thursday's Thoughts with Mark",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "1:00 - 3:00 PM",
+    "led_by": "Mark Borges",
+    "location": "Santa Maria DETOX Shelter",
+    "contact_email": "mark@crestwoodchristian.net"
+  },
+  "thursday_night": {
+    "enabled": true,
+    "title": "THURSDAY NIGHT",
+    "name": "Thursday's with Frank",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "6:30 - 7:30 PM",
+    "led_by": "Frank Souza",
+    "location": "Crestwood Christian Fellowship - (1265 W. McCoy Lane, Ste E)",
+    "contact_email": "souzafrank069@gmail.com"
+  },
+  "friday": {
+    "enabled": true,
+    "title": "FRIDAY AFTERNOON",
+    "name": "The Earlybirds",
+    "topics_link": "https://crestwoodchristian.net/small-groups-study/",
+    "time": "1:00 - 2:00 PM",
+    "led_by": "Ron Casper",
+    "location": "Crestwood Christian Fellowship - (1265 W. McCoy Lane, Ste E)",
+    "contact_email": "ron@crestwoodchristian.net"
+  }
 }
