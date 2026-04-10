@@ -1,6 +1,6 @@
 {
   "sunday": {
-    "enabled": true,
+    "enabled": false,
     "title": "SUNDAY NIGHT",
     "name": "The Herd of Turtles",
     "topics_link": "https://crestwoodchristian.net/small-groups-study/",
@@ -12,12 +12,12 @@
   "monday": {
     "enabled": true,
     "title": "MONDAY NIGHT",
-    "name": "Monday's With Mike",
+    "name": "Monday's With Ron",
     "topics_link": "https://crestwoodchristian.net/small-groups-study/",
     "time": "6:30 - 8:00 PM",
-    "led_by": "Pastor Mike Collins",
+    "led_by": "Elder Ron Casper",
     "location": "Crestwood Christian Fellowship - (1265 W. McCoy Lane, Ste E)",
-    "contact_email": "mike@crestwoodchristian.net"
+    "contact_email": "ron@crestwoodchristian.net"
   },
   "tuesday": {
     "enabled": true,
