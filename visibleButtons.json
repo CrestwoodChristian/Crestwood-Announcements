@@ -12,7 +12,7 @@
   "crestwood_outreach": true,
   "showers_blessings": true,
   "morning_star_laundry": true,
-  "door_to_door": false,
+  "door_to_door": true,
   "join_newsletter": true,
   "send_message": true,
   "phone_number": true,
