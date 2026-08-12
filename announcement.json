@@ -1,9 +1,9 @@
 {
   "button_link" : "",
-  "button_text" : "Learn More",
+  "button_text" : "",
   "enabled" : true,
-  "message" : "New Sermon!",
-  "sent_at" : "4\/3\/26",
+  "message" : "We’re glad you’re here.",
+  "sent_at" : "8\/12\/26",
   "show_button" : false,
-  "title" : "Click on the Sermons page to watch our latest sermon."
+  "title" : "Welcome To The Crestwood App!"
 }
