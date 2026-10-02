@@ -40,7 +40,7 @@
     "contact_email": "info@crestwoodchristian.net"
   },
   "thursday_afternoon": {
-    "enabled": true,
+    "enabled": false,
     "title": "THURSDAY AFTERNOON",
     "name": "Thursday's Thoughts with Mark",
     "topics_link": "https://crestwoodchristian.net/small-groups-study/",
@@ -54,13 +54,13 @@
     "title": "THURSDAY NIGHT",
     "name": "Thursday's with Frank",
     "topics_link": "https://crestwoodchristian.net/small-groups-study/",
-    "time": "6:30 - 7:30 PM",
+    "time": "7:00 - 8:00 PM",
     "led_by": "Frank Souza",
     "location": "Crestwood Christian Fellowship - (1265 W. McCoy Lane, Ste E)",
     "contact_email": "souzafrank069@gmail.com"
   },
   "friday": {
-    "enabled": true,
+    "enabled": false,
     "title": "FRIDAY AFTERNOON",
     "name": "The Earlybirds",
     "topics_link": "https://crestwoodchristian.net/small-groups-study/",
