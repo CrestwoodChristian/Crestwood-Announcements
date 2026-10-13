@@ -1,1 +1,36 @@
-
+{
+  "announcements" : [
+    {
+      "blocks" : [
+        {
+          "altText" : "",
+          "caption" : "",
+          "id" : "6490F366-C78F-4026-A2BA-94C84BEC63AD",
+          "placement" : {
+            "height" : 2,
+            "width" : 12,
+            "x" : 0,
+            "y" : 0
+          },
+          "text" : "ncement text",
+          "title" : "Text",
+          "type" : "text",
+          "url" : ""
+        }
+      ],
+      "button_link" : "",
+      "button_text" : "",
+      "enabled" : true,
+      "id" : "6B8ECABC-A37F-422D-B732-779133C742DF",
+      "message" : "",
+      "sent_at" : "10\/13\/2026",
+      "show_button" : false,
+      "title" : "Sunday Announcement"
+    }
+  ],
+  "editor" : {
+    "columns" : 12,
+    "gridSize" : 8,
+    "snapToGrid" : true
+  }
+}
