@@ -16,6 +16,21 @@
           "title" : "Text",
           "type" : "text",
           "url" : ""
+        },
+        {
+          "altText" : "",
+          "caption" : "",
+          "id" : "6F5FEFC3-E851-4A46-BE06-08C6A37F7EEF",
+          "placement" : {
+            "height" : 2,
+            "width" : 12,
+            "x" : 0,
+            "y" : 2
+          },
+          "text" : "",
+          "title" : "",
+          "type" : "image",
+          "url" : "Rferffefef"
         }
       ],
       "button_link" : "",
