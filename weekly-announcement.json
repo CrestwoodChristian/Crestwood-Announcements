@@ -16,6 +16,21 @@
           "title" : "Crestwood link",
           "type" : "action",
           "url" : "HTTPS:\/\/CrestwoodChristian.net"
+        },
+        {
+          "altText" : "",
+          "caption" : "",
+          "id" : "0412AEC6-2176-4CC1-B5BA-01A3F5F85D76",
+          "placement" : {
+            "height" : 2,
+            "width" : 12,
+            "x" : 0,
+            "y" : 2
+          },
+          "text" : "Hi",
+          "title" : "Hello",
+          "type" : "text",
+          "url" : ""
         }
       ],
       "button_link" : "",
